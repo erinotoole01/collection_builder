@@ -18,16 +18,16 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Collection Builder
+title: Fashion Collection Builder Test
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Digital Collection Magic with Static Web Technologies
+tagline: A brief collection of fashion history and design
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
+description: Photos taken from the Library of Congress free library displaying women's fashion across regions and decades of the United States in the 20th century.
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: idaho; history; inland northwest
+keywords: fashion; design; 20th century; women
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Erin O'Toole
 
 ##########
 # COLLECTION SETTINGS

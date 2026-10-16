@@ -1,6 +1,0 @@
-filename,object_location,image_small,image_thumb
-sample_001.jpeg,/objects/sample_001.jpeg,/objects/small/sample_001_sm.jpg,/objects/thumbs/sample_001_th.jpg
-sample_002.jpeg,/objects/sample_002.jpeg,/objects/small/sample_002_sm.jpg,/objects/thumbs/sample_002_th.jpg
-sample_003.jpeg,/objects/sample_003.jpeg,/objects/small/sample_003_sm.jpg,/objects/thumbs/sample_003_th.jpg
-sample_004.jpeg,/objects/sample_004.jpeg,/objects/small/sample_004_sm.jpg,/objects/thumbs/sample_004_th.jpg
-sample_005.jpeg,/objects/sample_005.jpeg,/objects/small/sample_005_sm.jpg,/objects/thumbs/sample_005_th.jpg
